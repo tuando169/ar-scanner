@@ -17,6 +17,7 @@
     "ar.js": "^2.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.1",
     "three": "^0.175.0"
   },
   "devDependencies": {
